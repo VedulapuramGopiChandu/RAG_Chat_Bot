@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+langchain
+langchain-google-genai
+langchain-community 
+beautifulsoup4
+pypdf
+unstructured
+python-docx
+lxml
+requests
+faiss-cpu        
